@@ -1,5 +1,4 @@
-
-name: Equipe 2
+name: Equipe2
 on:
   pull_request:
     branches:
