@@ -15,6 +15,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn DevOps
+        </a>
+        <a
+          className="App-link"
+          href="https://pepaulo8.github.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Alteração de Pedro Paulo
         </a>
       </header>
